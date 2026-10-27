@@ -6,7 +6,7 @@ The profile is a short editorial portfolio: identity, one featured work, three c
 
 Warm off-white and near-black, broad type, narrow rules, generous empty space. Brackets turn the identity mark into a frame for investigation; the featured image groups A/B/C/D under one shared requirement set. Equal rectangles are condition labels, not measurements. D has an inverse treatment to identify the minimal-reminder comparison, not to claim a winner.
 
-Light and dark assets have separate palettes. All SVGs use only local geometry and system font fallbacks; there are no scripts, remote fonts, filters, tracking pixels or external asset services. Color selection follows the reader's OS/browser preference through GitHub-supported picture markup; a manually selected GitHub theme can differ from that preference.
+Light and dark assets have separate palettes. All SVGs use only local geometry and system font fallbacks; there are no scripts, remote fonts, filters, tracking pixels or external asset services. GitHub-supported picture markup declares both color schemes. The live profile HTML wraps these pictures in GitHub's themed-picture component; manual GitHub theme switching remains a separate visual check.
 
 ## Curatorial choice
 
